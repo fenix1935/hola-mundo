@@ -11,6 +11,7 @@
 public class hola {
     public static void main(String[] args) {
         System.out.println("hola Mundo Cruel :v");
+        System.out.println("que emocionante ome");
     }
     
 }
